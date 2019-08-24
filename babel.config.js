@@ -1,5 +1,4 @@
-module.exports = (api) => {
-	api.cache(true);
+module.exports = () => {
 
 	return {
 		presets: [
